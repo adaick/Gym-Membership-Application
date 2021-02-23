@@ -27,7 +27,7 @@ Following details should be required to create a member: Full Name, Age, Gender,
 
 ### Workout Regimen
 
-[Regimen](https://github.com/adaick/Gym-Membership-Application/blob/main/images/workoutRegimen.jpeg)
+
 ![Regimen](/images/workoutRegimen.jpeg)
 
 
