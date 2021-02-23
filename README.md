@@ -27,7 +27,6 @@ Following details should be required to create a member: Full Name, Age, Gender,
 
 ### Workout Regimen
 
-
 ![Regimen](/images/workoutRegimen.jpeg)
 
 
@@ -42,17 +41,21 @@ Following details should be required to create a member: Full Name, Age, Gender,
 
 ### Start
 
-[Start](https://github.com/adaick/Gym-Membership-Application/blob/main/images/Gym.png)
 ![Start](/images/Gym.png)
 
 ### Admin
 
-[Admin](https://github.com/adaick/Gym-Membership-Application/blob/main/images/GymAdmin.png)
 ![Admin](/images/GymAdmin.png)
 
 
 ### User
 
-[User](https://github.com/adaick/Gym-Membership-Application/blob/main/images/GymUser.png)
 ![User](/images/GymUser.png)
 
+
+```bash
+Programming Language: Python 3.8.3
+Dependency Managament Tools: Pip
+Interface: CLI
+Preferred IDE: VS Code
+```
